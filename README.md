@@ -8,6 +8,6 @@ To build a multiple linear regression model using scikit-learn to predict totlng
 - **Type:** Supervised learning (Regression)  
 - **Goal:** Predict continuous numeric output 
 ## Evaluation Metrics
-Mean Squared Error (MSE)
-R² Score (Coefficient of Determination)
+- **Mean Squared Error (MSE)**  
+- **R² Score (Coefficient of Determination)**
 
